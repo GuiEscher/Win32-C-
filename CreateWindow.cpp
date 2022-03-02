@@ -1,7 +1,7 @@
 #define WIN32_LEAN_AND_MEAN
 #include <Windows.h>
 
-//Criando uma janela no windows
+//Criando uma janela no windows - ponto de partida para a criação de qualquer programa
 
 //Protótipo do winProcedure
 LRESULT CALLBACK WinProc(HWND, UINT, WPARAM, LPARAM);
